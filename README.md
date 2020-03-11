@@ -3,6 +3,10 @@
 #### 介绍
 初始化中。。。
 
+#### 开源地址
+开源中国: https://gitee.com/cool56_open/cool56-sns
+GitHub: https://github.com/cool56open/cool56-sns
+
 #### 软件架构
 初始化中。。。
 
